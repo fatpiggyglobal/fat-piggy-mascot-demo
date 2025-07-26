@@ -1,0 +1,20 @@
+{
+  "en": {
+    "title": "Fat Piggy / Fat Camel Demo",
+    "button_pig": "Piggy Mode",
+    "button_camel": "Camel Mode",
+    "deposit": "Make a Deposit"
+  },
+  "sw": {
+    "title": "Onyesho la Fat Piggy / Fat Camel",
+    "button_pig": "Hali ya Piggy",
+    "button_camel": "Hali ya Camel",
+    "deposit": "Weka Amana"
+  },
+  "mo": {
+    "title": "Fat Piggy Mosaicu",
+    "button_pig": "Modo Piggo",
+    "button_camel": "Modo Camellu",
+    "deposit": "Savi Coinu"
+  }
+}
